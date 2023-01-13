@@ -13,3 +13,6 @@ console.log("Hallo");
 console.log(firstName);
 
 /***** 02 Deklaration + Wertzuweisung I *******/
+
+let firstName; //Deklaration bzw Definition der Variablen in Camel-Schreibweise
+console.log(firstName);
