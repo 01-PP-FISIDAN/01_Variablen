@@ -15,4 +15,5 @@ console.log(firstName);
 /***** 02 Deklaration + Wertzuweisung I *******/
 
 let firstName; //Deklaration bzw Definition der Variablen in Camel-Schreibweise
-console.log(firstName);
+firstName = "Daniel"; // Hier wird der Wert Daniel an die Variable firstName übergeben Ziel = Wert
+console.log(firstName); //Ausgabe
