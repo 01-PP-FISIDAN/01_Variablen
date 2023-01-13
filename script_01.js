@@ -34,7 +34,7 @@
 
 /******* 03a Konstanten **********/
 
-let test;
+const test;
 test = "hallo";
 console.log("Inhalt: " + test);
 
