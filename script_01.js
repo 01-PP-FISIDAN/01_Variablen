@@ -24,10 +24,17 @@
 
 /* JS ist eine untypisierte Sprache! | untyped */
 
-let test;
-// test = "hallo";
-// test = 2;
-test = true;
+// let test;
+// // test = "hallo";
+// // test = 2;
+// test = true;
 
-console.log("Datentyp: " + typeof test);
+// console.log("Datentyp: " + typeof test);
+// console.log("Inhalt: " + test);
+
+/******* 03a Konstanten **********/
+
+let test;
+test = "hallo";
 console.log("Inhalt: " + test);
+
