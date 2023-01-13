@@ -33,8 +33,7 @@
 // console.log("Inhalt: " + test);
 
 /******* 03a Konstanten **********/
-
-const test;
-test = "hallo";
+const test = "hello" /* Konstanten müssen als Sonderform der Variablen ihren Wert zur Laufzeit zugewiesen bekommen und nicht ändern*/
+// test = "hallo";
 console.log("Inhalt: " + test);
 
